@@ -15,7 +15,7 @@ Explore [My Portfolio](https://ssfportfolio.netlify.app/)! It's a place where yo
 
 If you would like to contact me, feel free to do so via the following methods:
 
-Email: fitwiazeb@gmail.com
+Email: azebsame@gmail.com
 
 ## Acknowledgments
 
