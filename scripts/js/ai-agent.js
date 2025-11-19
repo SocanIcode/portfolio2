@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
   function greet() {
     if (!greeted) {
       appendMessage(
-        `<b>Hi, I'm Saba!</b><br>Welcome to my portfolio 👋<br>Ask me about my projects, e.g.:<br><span class='ai-hint'>'show school projects with React'</span> or <span class='ai-hint'>'show all'</span>.`,
+        `<b>Hi, I'm azeb!</b><br>Welcome to my portfolio 👋<br>Ask me about my projects, e.g.:<br><span class='ai-hint'>'show school projects with React'</span> or <span class='ai-hint'>'show all'</span>.`,
         false
       );
       greeted = true;
@@ -80,7 +80,7 @@ document.addEventListener("DOMContentLoaded", () => {
       )
     ) {
       appendMessage(
-        "Hi! I'm Saba, your portfolio guide. Ask me about my projects or filter by type or technology!"
+        "Hi! I'm azeb, your portfolio guide. Ask me about my projects or filter by type or technology!"
       );
       return;
     }

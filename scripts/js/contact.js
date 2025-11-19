@@ -27,8 +27,8 @@ document.addEventListener("DOMContentLoaded", function () {
         from_name: name,
         from_email: email,
         message: message,
-        to_name: "Saba",
-        to_email: "fitwisaba@gmail.com",
+        to_name: "azeb",
+        to_email: "azebsame@gmail.com",
       })
       .then(
         function () {

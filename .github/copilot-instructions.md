@@ -90,7 +90,7 @@ If you need to make larger changes
 
 Contact / maintainers
 
-- Repo README lists contact email: fitwisaba@gmail.com. Use that for clarifications about intended content or behavior.
+- Repo README lists contact email: fitwiazeb@gmail.com. Use that for clarifications about intended content or behavior.
 
 Endnotes
 
